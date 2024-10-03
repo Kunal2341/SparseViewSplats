@@ -22,3 +22,6 @@
 [submodule "submodules/croco"]
 	path = submodules/croco
 	url = https://github.com/naver/croco
+[submodule "GaussianSplatting/gaussian-splatting"]
+	path = GaussianSplatting/gaussian-splatting
+	url = https://github.com/graphdeco-inria/gaussian-splatting.git
